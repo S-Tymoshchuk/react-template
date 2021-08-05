@@ -24,7 +24,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "stylelint \"**/*.scss\"",
-    "lint:fix": "yarn lint --fix"
+    "lint:fix": "yarn lint --fix",
+    "buildScss": "node src/scss/src/script/build.js"
   },
   "eslintConfig": {
     "extends": [
@@ -53,8 +54,8 @@
     "stylelint-config-sass-guidelines": "^8.0.0",
     "stylelint-prettier": "^1.2.0"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "My boilerplate react + typescript/scss",
   "main": "index.js",
-  "author": "",
+  "author": "Sergey Tymoshchuk",
   "license": "ISC"
 }

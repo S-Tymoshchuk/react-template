@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca412f50-1723-441e-836c-c80dea284cc9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/src/foundation/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/src/foundation/_typography.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/src/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/src/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
       <workItem from="1619195774272" duration="383000" />
       <workItem from="1619196195055" duration="42000" />
       <workItem from="1619196256213" duration="1814000" />
-      <workItem from="1628067573626" duration="14552000" />
+      <workItem from="1628067573626" duration="17640000" />
     </task>
     <servers />
   </component>
